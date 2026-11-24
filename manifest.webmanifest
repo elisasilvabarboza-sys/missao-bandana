@@ -1,0 +1,15 @@
+{
+  "id": "./",
+  "name": "Missão Bandana!",
+  "short_name": "Missão Bandana",
+  "description": "Ajude Bento, um maltês, e Chico, seu companheiro yorkshire, a conquistar uma bandana.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#fff8e9",
+  "theme_color": "#e98e9e",
+  "icons": [
+    { "src": "./icons/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
